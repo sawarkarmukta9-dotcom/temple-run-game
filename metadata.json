@@ -1,0 +1,5 @@
+{
+  "name": "Temple Runner 3D",
+  "description": "An infinite runner game inspired by Temple Run, built with React and Three.js.",
+  "requestFramePermissions": []
+}
